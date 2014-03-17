@@ -1,0 +1,40 @@
+{
+  "name": "nogql",
+  "version": "0.1.0",
+  "description": "An api interface for adding new hosts to nagios.",
+  "author": "Daniel Khodaparast <me@dapak.me>",
+  "copyright": "2014 Bronto Software, Inc.",
+  "keywords": [
+    "nagios",
+    "nagiosql",
+    "api",
+    "rest"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/bronto/nogql/master/LICENSE"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bronto/nogql.git"
+  },
+  "bin": {
+    "nogql": "bin/nogql.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bronto/nogql/issues"
+  },
+  "dependencies": {
+    "ini": "1.1.x",
+    "mysql": "2.1.x",
+    "portfinder": "~0.2.1",
+    "q": "1.0.x",
+    "winston": "0.7.x",
+    "yargs": "1.2.x"
+  },
+  "engines": [
+    "node >= 0.10"
+  ],
+  "main": "lib/nogql.js",
+  "preferGlobal": true
+}
