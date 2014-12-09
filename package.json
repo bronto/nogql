@@ -1,6 +1,6 @@
 {
   "name": "nogql",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "An api interface for adding new hosts to nagios.",
   "author": "Daniel Khodaparast <me@dapak.me>",
   "copyright": "2014 Bronto Software, Inc.",
