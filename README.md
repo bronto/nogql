@@ -50,10 +50,13 @@ $ curl -X POST http://localhost:8081/host -d '{"domain":"production", "address":
 
 ## API
 ### DELETE: /host
-Deactivates a host object within [NagiosQL][nagiosql].
+Deactivates a host object.
+
+### GET: /host
+Retrieves a host object.
 
 ### POST: /host
-Creates a new host object within [NagiosQL][nagiosql].
+Creates a new host object.
 
 
 ## License
