@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "description": "An api interface for adding new hosts to nagios.",
   "author": "Daniel Khodaparast <me@dapak.me>",
-  "copyright": "2014 Bronto Software, Inc.",
+  "copyright": "2015 Bronto Software, Inc.",
   "keywords": [
     "nagios",
     "nagiosql",
@@ -11,7 +11,7 @@
     "rest"
   ],
   "licenses": [{
-    "type": "MIT",
+    "type": "Apache-2.0",
     "url": "https://github.com/bronto/nogql/master/LICENSE"
   }],
   "repository": {
