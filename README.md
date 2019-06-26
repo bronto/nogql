@@ -55,6 +55,12 @@ Deactivates a host object.
 ### GET: /host
 Retrieves a host object.
 
+### GET: /registered
+List the hosts registred in NagiosQL.
+
+### GET: /list
+List the hosts in the specified status(deactive or active).
+
 ### POST: /host
 Creates a new host object.
 
