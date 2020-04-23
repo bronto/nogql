@@ -30,7 +30,8 @@
     "portfinder": "~0.2.1",
     "q": "1.0.x",
     "winston": "0.7.x",
-    "yargs": "1.2.x"
+    "yargs": "1.2.x",
+    "moment": "2.22.x"
   },
   "engines": [
     "node >= 0.10"
